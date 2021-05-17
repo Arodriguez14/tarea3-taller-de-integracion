@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Chat from "./components/Chat";
+import Map from "./components/Map";
 import "./App.css";
 
 function App() {
@@ -14,16 +15,24 @@ function App() {
   };
 
   return (
-    <div className="App">
-      {!registrado && (
-        <form onSubmit={registrar}>
-          <label htmlFor="">Introduzca su nombre</label>
-          <input value={nombre} onChange={(e) => setNombre(e.target.value)} />
-          <button>Ir al chat</button>
-        </form>
-      )}
+    <div>
+      <div className="wrapper">
+        <div>
+          <Map></Map>
+        </div>
+        <div className="derecha">
+          {!registrado && (
+            <form onSubmit={registrar}>
+              <label htmlFor="">Introduzca su nombre</label>
+              <input value={nombre} onChange={(e) => setNombre(e.target.value)} />
+              <br></br>
+              <button>Ir al chat</button>
+            </form>
+          )}
 
-      {registrado && <Chat nombre={nombre} />}
+          {registrado && <Chat nombre={nombre} />}
+        </div>
+      </div>
     </div>
   );
 }

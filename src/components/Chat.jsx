@@ -1,7 +1,9 @@
 import React, { useState, useEffect, useRef } from "react";
 import socket from "./home";
+import Map from "./Map";
 import "../App.css";
 import { io } from "socket.io-client";
+
 
 const ENDPOINT = "wss://tarea-3-websocket.2021-1.tallerdeintegracion.cl";
 
@@ -57,8 +59,8 @@ const Chat = ({ nombre }) => {
         ))}
         <div ref={divRef}></div>
       </div>
+      <div className="text">
       <form onSubmit={submit}>
-        <label htmlFor="">Escriba su mensaje</label>
         <textarea
           name=""
           id=""
@@ -71,6 +73,8 @@ const Chat = ({ nombre }) => {
         </textarea>
         <button>Enviar</button>
       </form>
+      </div>
+
     </div>
   );
 };

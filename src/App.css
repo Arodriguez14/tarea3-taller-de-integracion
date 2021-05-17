@@ -5,3 +5,18 @@
   overflow: scroll;
   border: 2px solid black;
 }
+
+#mapa {
+  height: 500px;
+  border-radius: 10;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 800px 500px;
+}
+
+.derecha {
+  text-align: left;
+  margin-left: 10%;
+}
