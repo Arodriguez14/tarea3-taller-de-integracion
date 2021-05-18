@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tarea3-taller-de-integracion/static/css/main.15dd77f3.chunk.css",
-    "main.js": "/tarea3-taller-de-integracion/static/js/main.a9b59ddd.chunk.js",
-    "main.js.map": "/tarea3-taller-de-integracion/static/js/main.a9b59ddd.chunk.js.map",
-    "runtime-main.js": "/tarea3-taller-de-integracion/static/js/runtime-main.f63d6a19.js",
-    "runtime-main.js.map": "/tarea3-taller-de-integracion/static/js/runtime-main.f63d6a19.js.map",
-    "static/js/2.9da1a984.chunk.js": "/tarea3-taller-de-integracion/static/js/2.9da1a984.chunk.js",
-    "static/js/2.9da1a984.chunk.js.map": "/tarea3-taller-de-integracion/static/js/2.9da1a984.chunk.js.map",
-    "static/js/3.71ec70bf.chunk.js": "/tarea3-taller-de-integracion/static/js/3.71ec70bf.chunk.js",
-    "static/js/3.71ec70bf.chunk.js.map": "/tarea3-taller-de-integracion/static/js/3.71ec70bf.chunk.js.map",
+    "main.css": "/tarea3-taller-de-integracion/static/css/main.46c7f3ed.chunk.css",
+    "main.js": "/tarea3-taller-de-integracion/static/js/main.9a2358eb.chunk.js",
+    "main.js.map": "/tarea3-taller-de-integracion/static/js/main.9a2358eb.chunk.js.map",
+    "runtime-main.js": "/tarea3-taller-de-integracion/static/js/runtime-main.01b263ed.js",
+    "runtime-main.js.map": "/tarea3-taller-de-integracion/static/js/runtime-main.01b263ed.js.map",
+    "static/js/2.05799731.chunk.js": "/tarea3-taller-de-integracion/static/js/2.05799731.chunk.js",
+    "static/js/2.05799731.chunk.js.map": "/tarea3-taller-de-integracion/static/js/2.05799731.chunk.js.map",
+    "static/js/3.b6d70aa5.chunk.js": "/tarea3-taller-de-integracion/static/js/3.b6d70aa5.chunk.js",
+    "static/js/3.b6d70aa5.chunk.js.map": "/tarea3-taller-de-integracion/static/js/3.b6d70aa5.chunk.js.map",
     "index.html": "/tarea3-taller-de-integracion/index.html",
-    "static/css/main.15dd77f3.chunk.css.map": "/tarea3-taller-de-integracion/static/css/main.15dd77f3.chunk.css.map",
-    "static/js/2.9da1a984.chunk.js.LICENSE.txt": "/tarea3-taller-de-integracion/static/js/2.9da1a984.chunk.js.LICENSE.txt"
+    "static/css/main.46c7f3ed.chunk.css.map": "/tarea3-taller-de-integracion/static/css/main.46c7f3ed.chunk.css.map",
+    "static/js/2.05799731.chunk.js.LICENSE.txt": "/tarea3-taller-de-integracion/static/js/2.05799731.chunk.js.LICENSE.txt",
+    "static/media/plane-icon.53368dcd.png": "/tarea3-taller-de-integracion/static/media/plane-icon.53368dcd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f63d6a19.js",
-    "static/js/2.9da1a984.chunk.js",
-    "static/css/main.15dd77f3.chunk.css",
-    "static/js/main.a9b59ddd.chunk.js"
+    "static/js/runtime-main.01b263ed.js",
+    "static/js/2.05799731.chunk.js",
+    "static/css/main.46c7f3ed.chunk.css",
+    "static/js/main.9a2358eb.chunk.js"
   ]
 }
