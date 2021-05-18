@@ -138,7 +138,7 @@ const Map = () => {
                     <CircleMarker
                         center={{lat:trajecto.position[0], lng: trajecto.position[1]}}
                         color={'red'}
-                        radius={1}>
+                        radius={2}>
                     </CircleMarker>
                     )})
                     }
