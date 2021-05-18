@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import socket from "./home";
-import Map from "./Map";
 import "../App.css";
 import { io } from "socket.io-client";
 
@@ -53,7 +52,7 @@ const Chat = ({ nombre }) => {
       <div className="chat">
         {mensajes.map((e, i) => (
           <div key={i}>
-            <div>{e.name}:</div>
+            <div>{Date(e.date)}-{e.name}:</div>
             <div>{e.message}</div>
           </div>
         ))}
