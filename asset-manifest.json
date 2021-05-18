@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tarea3-taller-de-integracion/static/css/main.46c7f3ed.chunk.css",
-    "main.js": "/tarea3-taller-de-integracion/static/js/main.9a2358eb.chunk.js",
-    "main.js.map": "/tarea3-taller-de-integracion/static/js/main.9a2358eb.chunk.js.map",
+    "main.js": "/tarea3-taller-de-integracion/static/js/main.cf07a7c8.chunk.js",
+    "main.js.map": "/tarea3-taller-de-integracion/static/js/main.cf07a7c8.chunk.js.map",
     "runtime-main.js": "/tarea3-taller-de-integracion/static/js/runtime-main.01b263ed.js",
     "runtime-main.js.map": "/tarea3-taller-de-integracion/static/js/runtime-main.01b263ed.js.map",
     "static/js/2.05799731.chunk.js": "/tarea3-taller-de-integracion/static/js/2.05799731.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.01b263ed.js",
     "static/js/2.05799731.chunk.js",
     "static/css/main.46c7f3ed.chunk.css",
-    "static/js/main.9a2358eb.chunk.js"
+    "static/js/main.cf07a7c8.chunk.js"
   ]
 }
